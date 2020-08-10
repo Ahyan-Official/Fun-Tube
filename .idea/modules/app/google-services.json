@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "179328730802",
+    "firebase_url": "https://kurulus-43dc8.firebaseio.com",
+    "project_id": "kurulus-43dc8",
+    "storage_bucket": "kurulus-43dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179328730802:android:62a26f1af5a3a91a81ebab",
+        "android_client_info": {
+          "package_name": "com.chaskastudios.fun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179328730802-pagfeqv4bc8sicqv2sn6rr676cjvp7mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chaskastudios.fun",
+            "certificate_hash": "995211d594177dcb23a1da486f757ef5a927a4c4"
+          }
+        },
+        {
+          "client_id": "179328730802-i8oipsnu6cvsg9hk3p0s5vddcjir8dfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIKqdi3xcKtIZLiaoX8TIo3r7s2Q6seg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179328730802-i8oipsnu6cvsg9hk3p0s5vddcjir8dfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179328730802:android:7859ef038edc506e81ebab",
+        "android_client_info": {
+          "package_name": "com.salmantech.erstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179328730802-v22hq4j3b8ppn081bk257lvbltiorbrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salmantech.erstatus",
+            "certificate_hash": "995211d594177dcb23a1da486f757ef5a927a4c4"
+          }
+        },
+        {
+          "client_id": "179328730802-i8oipsnu6cvsg9hk3p0s5vddcjir8dfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIKqdi3xcKtIZLiaoX8TIo3r7s2Q6seg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179328730802-i8oipsnu6cvsg9hk3p0s5vddcjir8dfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179328730802:android:fbdc2cc1d7d9a7b881ebab",
+        "android_client_info": {
+          "package_name": "com.salmantech.hdwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179328730802-nllhvs2n0t2b3876k17serhcrieb2rco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salmantech.hdwallpaper",
+            "certificate_hash": "995211d594177dcb23a1da486f757ef5a927a4c4"
+          }
+        },
+        {
+          "client_id": "179328730802-i8oipsnu6cvsg9hk3p0s5vddcjir8dfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIKqdi3xcKtIZLiaoX8TIo3r7s2Q6seg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179328730802-i8oipsnu6cvsg9hk3p0s5vddcjir8dfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179328730802:android:89670aef5622907381ebab",
+        "android_client_info": {
+          "package_name": "com.salmantech.kurulus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179328730802-1474lt2kj1240opnr6cc57qto8ou0cen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salmantech.kurulus",
+            "certificate_hash": "995211d594177dcb23a1da486f757ef5a927a4c4"
+          }
+        },
+        {
+          "client_id": "179328730802-i8oipsnu6cvsg9hk3p0s5vddcjir8dfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIKqdi3xcKtIZLiaoX8TIo3r7s2Q6seg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179328730802-i8oipsnu6cvsg9hk3p0s5vddcjir8dfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
